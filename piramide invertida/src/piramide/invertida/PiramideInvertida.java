@@ -7,7 +7,7 @@ package piramide.invertida;
 
 /**
  *
- * @author audyc
+ * @author Tiffany
  */
 public class PiramideInvertida {
 
